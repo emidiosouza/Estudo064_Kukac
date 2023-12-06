@@ -11,7 +11,7 @@ Este repositório contém um projeto abrangente que aborda a autenticação com 
 - **Token token.pickle:** Proteja o arquivo token.pickle e nunca o compartilhe publicamente. Adicione ao .gitignore.
 
 ## Partes do Código
-1. **Autenticação com Google Drive API** ([Link para Código](#parte-1-autenticação-com-google-drive-api))
+1.  ([**Autenticação com Google Drive API**](#parte-1-autenticação-com-google-drive-api))
 2. **Monitoramento da Pasta do Google Drive** ([Link para Código](#parte-2-monitoramento-da-pasta-do-google-drive))
 3. **Download do Vídeo e Extração de Áudio** ([Link para Código](#parte-3-download-do-vídeo-e-extração-de-áudio))
 4. **Transcrição de Áudio com Whisper e Análise com GPT-3.3** ([Link para Código](#parte-4-transcrição-de-áudio-com-whisper-e-análise-com-gpt-33))
